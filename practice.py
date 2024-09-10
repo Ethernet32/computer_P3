@@ -1,3 +1,3 @@
 print("hello")
-print("This is hi again")
-print("hi")
+name=input("what is your name")
+print("hi"+name)
