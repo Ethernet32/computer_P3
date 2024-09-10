@@ -1,2 +1,3 @@
 print("hello")
-print("This is hi again")
+print("This is hi again")\
+ptint("hi")
